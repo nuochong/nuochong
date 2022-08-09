@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuochong)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-![](https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=nuochong)
+![](https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=nuochong&svg.width=1012&svg.height=190)
